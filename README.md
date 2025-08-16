@@ -94,37 +94,6 @@ Sr. Data Scientist with 6+ years of experience delivering production ML systems 
 
 ---
 
-## 🧩 Featured Projects
-
-**Propensity-To-Pay (Predictive Modeling)** – Led development of P-T-P model achieving 95% accuracy with ensemble methods, scaled to multiple clients with 70% improvement in response time and 56% revenue increase.  
-*Python • SQL • PySpark • Random Forest • XGBoost • Hive*
-
-**Pneumonia Detection - Chest X-Ray Images** – Built CNN-based medical imaging solution processing 5,856 chest X-rays with multi-GPU training, comparing ResNet18 (79.97%), AlexNet (78.85%), and ViT architectures.  
-*Python • PyTorch • CNN • CUDA • Computer Vision*
-
-**MCP HealthBridge** – Developed multi-server MCP application with Streamlit frontend, integrating census health APIs via LangGraph agents for demographic health analytics and population insights.  
-*Python • Streamlit • LangGraph • Langfuse • Groq LLM • CrewAI*
-
-**Smart-Doc Processing System** – Built from scratch using Python, JavaScript, and OCR to process EHR/PHI unstructured documents, converting XLSX, CSV, PDF, and image files into HL7 format.  
-*Python • JavaScript • OCR • Document Processing • Healthcare Data*
-
----
-
-## 🎓 Certifications
-- **AWS Associate** (Current)
-- **AWS AI Practitioner** (Current)  
-- **Azure AI** (Current)
-- **Databricks Gen AI** (Current)
-- **PG-Diploma in Big Data Analytics & Machine Learning** - CDAC (2018)
-
----
-
-## 🎓 Education
-- **Master of Science in Data Science (Big Data Systems)** - Indiana University Bloomington (2023-2025) | GPA: 3.67
-- **Bachelor of Engineering in Computer Science & Engineering** - Rajiv Gandhi Proudyogiki Vishwavidyalaya (2017) | GPA: 8.02
-
----
-
 ## 📫 Connect With Me
 <div align="center">
   <a href="https://www.linkedin.com/in/kumarrrajendra/" target="_blank" rel="noreferrer">
