@@ -74,12 +74,12 @@ Sr. Data Scientist with 6+ years of experience delivering production ML systems 
 
 ## 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kummrajnn&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=contribs,issues" height="140" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kummrajnn&theme=tokyonight&hide_border=false" height="140" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kummrajnn&layout=compact&theme=tokyonight&langs_count=8&hide=html,css,scss" height="140" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RajendraRkumar&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=contribs,issues" height="140" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajendraRkumar&theme=tokyonight&hide_border=false" height="140" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajendraRkumar&layout=compact&theme=tokyonight&langs_count=8&hide=html,css,scss" height="140" alt="Top Languages"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kummrajnn&theme=tokyo-night&hide_border=true&area=true&area_color=4F8CC9" height="180" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RajendraRkumar&theme=tokyo-night&hide_border=true&area=true&area_color=4F8CC9" height="180" alt="Activity Graph"/>
 </div>
 
 
