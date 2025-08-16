@@ -1,36 +1,33 @@
 <!--
 Quick setup:
-- Find & replace <github-username>, <portfolio-url>, <linkedin-handle>, <twitter-handle>, <email>.
+- Find & replace kummrajnn, kumarrrajendra, kummrajnn@gmail.com.
 - Update Featured Projects, Highlights, and Certifications with real details.
 -->
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1100&color=4F8CC9&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Rajendra+Kumar;Lead+Data+Scientist+%E2%80%A2+5%2B+years;ML+%7C+MLOps+%7C+GenAI+%7C+Analytics" alt="Typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1100&color=4F8CC9&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Rajendra+Kumar;Sr.+Data+Scientist+%E2%80%A2+6%2B+years;ML+%7C+MLOps+%7C+GenAI+%7C+Analytics" alt="Typing intro" />
 </div>
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=<github-username>&style=flat-square&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/<github-username>?label=Followers&style=flat-square&color=green" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/<github-username>?label=Stars&style=flat-square&color=yellow" alt="GitHub Stars" />
-  <img src="https://img.shields.io/badge/Role-Lead%20Data%20Scientist-4F8CC9?style=flat-square" alt="Role" />
+  <img src="https://komarev.com/ghpvc/?username=kummrajnn&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/kummrajnn?label=Followers&style=flat-square&color=green" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/kummrajnn?label=Stars&style=flat-square&color=yellow" alt="GitHub Stars" />
+  <img src="https://img.shields.io/badge/Role-Sr.%20Data%20Scientist-4F8CC9?style=flat-square" alt="Role" />
 </div>
 
 ---
 
 ## 🚀 About Me
+Sr. Data Scientist with 6+ years of experience delivering production ML systems and decision intelligence. Currently building AI/ML solutions at Heartland Network, with expertise spanning healthcare analytics, retail intelligence, and generative AI applications. I transform complex data challenges into scalable, impactful solutions—from EDA and feature engineering to full-stack deployment and MLOps.
 
-Lead Data Scientist with **5+ years** of experience delivering production ML systems and decision intelligence. I turn messy, high-volume data into **reliable, shipped** products—owning the loop from problem framing → modeling → MLOps → measurable business impact.
-
-**Focus areas:** ML & Statistical Modeling, MLOps (CI/CD for models), Retrieval & GenAI, Experimentation, and Data Platform enablement.
+**Focus areas:** Machine Learning & Statistical Modeling, MLOps & Production Systems, Generative AI & RAG Pipelines, Healthcare Analytics, and Real-time Data Processing.
 
 ---
 
-## 🔥 Highlights (edit with real wins)
-- Led end-to-end development of [project/domain], improving **[metric] by X%** and reducing **[cost/latency] by Y%**.
-- Productionized **N** models (batch + real-time), with automated retraining, monitoring, and alerting.
-- Built data/feature pipelines processing **B+** rows/day with **Spark + Airflow** on **[cloud]**.
-- Drove A/B testing and causality analysis to guide product decisions and increase **[KPI]**.
-- Mentored **M** engineers/analysts; established best practices for code review, testing, and experiment hygiene.
+## 🔥 Highlights
+- **Led Propensity-To-Pay modeling** achieving 95% accuracy with ensemble methods, increasing client revenue by 56% and scaling to multiple clients with 70% faster response times
+- **Built end-to-end fraud detection pipeline** at Target with 0.97 ROC AUC using Random Forest, delivering 0.99 precision and 0.80 recall on fraud detection
+- **Developed time-series forecasting models** predicting claims flow and conversion rates, optimizing workforce allocation by 30% and increasing collections by 15%
+- **Engineered real-time analytics dashboards** on Domo & Greenfield, creating SQL/Python ETL pipelines that improved data processing speed by 40%
+- **Built full-stack GenAI applications** with React, Flask, PostgreSQL, and FastAPI, including RAG pipelines with 5K+ indexed patterns for real-time AI assistance
 
 ---
 
@@ -42,6 +39,8 @@ Lead Data Scientist with **5+ years** of experience delivering production ML sys
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-2F74C0?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
 
 **ML / DL**
@@ -60,7 +59,7 @@ Lead Data Scientist with **5+ years** of experience delivering production ML sys
   <img src="https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </div>
 
 **Cloud & Storage**
@@ -68,75 +67,69 @@ Lead Data Scientist with **5+ years** of experience delivering production ML sys
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
   <img src="https://img.shields.io/badge/Databricks-EF3D2B?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
 
 **Viz & Analytics**
 <div>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </div>
 
 ---
 
 ## 📊 GitHub Analytics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<github-username>&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=contribs,issues" height="140" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<github-username>&theme=tokyonight&hide_border=false" height="140" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<github-username>&layout=compact&theme=tokyonight&langs_count=8&hide=html,css,scss" height="140" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kummrajnn&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=contribs,issues" height="140" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kummrajnn&theme=tokyonight&hide_border=false" height="140" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kummrajnn&layout=compact&theme=tokyonight&langs_count=8&hide=html,css,scss" height="140" alt="Top Languages"/>
 </div>
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=<github-username>&theme=tokyo-night&hide_border=true&area=true&area_color=4F8CC9" height="180" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kummrajnn&theme=tokyo-night&hide_border=true&area=true&area_color=4F8CC9" height="180" alt="Activity Graph"/>
 </div>
 
 ---
 
 ## 🧩 Featured Projects
-> Swap these with real repos. Keep one-liner results + stack used.
 
-- **Production ML Platform** – Unified model training/serving with MLflow, feature store, CI/CD on **Kubernetes + Databricks** → cut deployment time from weeks to days.  
-  `Python` • `MLflow` • `Airflow` • `K8s` • `DBX`
+**Propensity-To-Pay (Predictive Modeling)** – Led development of P-T-P model achieving 95% accuracy with ensemble methods, scaled to multiple clients with 70% improvement in response time and 56% revenue increase.  
+*Python • SQL • PySpark • Random Forest • XGBoost • Hive*
 
-- **Real-time Risk Scoring** – Stream processing with **Spark Structured Streaming** and **Kafka**; lifted precision **+X%**, reduced alert latency **−Y%**.  
-  `Spark` • `Kafka` • `Scala/PySpark` • `AWS`
+**Pneumonia Detection - Chest X-Ray Images** – Built CNN-based medical imaging solution processing 5,856 chest X-rays with multi-GPU training, comparing ResNet18 (79.97%), AlexNet (78.85%), and ViT architectures.  
+*Python • PyTorch • CNN • CUDA • Computer Vision*
 
-- **GenAI RAG for Analytics** – Domain-aware retrieval with vector search; guarded prompts & eval harness for safe outputs.  
-  `HuggingFace` • `Faiss` • `FastAPI` • `Docker`
+**MCP HealthBridge** – Developed multi-server MCP application with Streamlit frontend, integrating census health APIs via LangGraph agents for demographic health analytics and population insights.  
+*Python • Streamlit • LangGraph • Langfuse • Groq LLM • CrewAI*
 
----
-
-## 🎓 Certifications (examples)
-- AWS Certified Machine Learning – Specialty *(YYYY)*
-- Google Professional Data Engineer *(YYYY)*
-- Databricks Machine Learning Professional *(YYYY)*
-- Microsoft DP-100: Designing and Implementing a Data Science Solution *(YYYY)*
+**Smart-Doc Processing System** – Built from scratch using Python, JavaScript, and OCR to process EHR/PHI unstructured documents, converting XLSX, CSV, PDF, and image files into HL7 format.  
+*Python • JavaScript • OCR • Document Processing • Healthcare Data*
 
 ---
 
-## ✍️ Writing & Talks (optional)
-- *Title*, Conference/Meetup *(YYYY)* – link
-- *Blog series on [topic]* – link
+## 🎓 Certifications
+- **AWS Associate** (Current)
+- **AWS AI Practitioner** (Current)  
+- **Azure AI** (Current)
+- **Databricks Gen AI** (Current)
+- **PG-Diploma in Big Data Analytics & Machine Learning** - CDAC (2018)
+
+---
+
+## 🎓 Education
+- **Master of Science in Data Science (Big Data Systems)** - Indiana University Bloomington (2023-2025) | GPA: 3.67
+- **Bachelor of Engineering in Computer Science & Engineering** - Rajiv Gandhi Proudyogiki Vishwavidyalaya (2017) | GPA: 8.02
 
 ---
 
 ## 📫 Connect With Me
-
 <div align="center">
-  <a href="<portfolio-url>" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/<linkedin-handle>/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/kumarrrajendra/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/<twitter-handle>" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:<email>" rel="noreferrer">
+  <a href="mailto:kummrajnn@gmail.com" rel="noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
