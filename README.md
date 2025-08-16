@@ -22,15 +22,6 @@ Sr. Data Scientist with 6+ years of experience delivering production ML systems 
 
 ---
 
-## 🔥 Highlights
-- **Led Propensity-To-Pay modeling** achieving 95% accuracy with ensemble methods, increasing client revenue by 56% and scaling to multiple clients with 70% faster response times
-- **Built end-to-end fraud detection pipeline** at Target with 0.97 ROC AUC using Random Forest, delivering 0.99 precision and 0.80 recall on fraud detection
-- **Developed time-series forecasting models** predicting claims flow and conversion rates, optimizing workforce allocation by 30% and increasing collections by 15%
-- **Engineered real-time analytics dashboards** on Domo & Greenfield, creating SQL/Python ETL pipelines that improved data processing speed by 40%
-- **Built full-stack GenAI applications** with React, Flask, PostgreSQL, and FastAPI, including RAG pipelines with 5K+ indexed patterns for real-time AI assistance
-
----
-
 ## 🛠️ Tech Stack (Grouped)
 
 **Languages**
