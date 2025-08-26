@@ -28,21 +28,52 @@
   <img src="https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
 
-**Machine Learning & AI**
+**Machine Learning & Deep Learning**
 <div>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-0C4B33?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LightGBM-2E8B57?style=for-the-badge"/>
+</div>
+
+**LLMs & Generative AI**
+<div>
+  <img src="https://img.shields.io/badge/OpenAI_GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangGraph-2E8B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangFuse-FF6B35?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/OpenAI_APIs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stable_Diffusion-8A2BE2?style=for-the-badge"/>
+</div>
+
+**AI Frameworks & Tools**
+<div>
+  <img src="https://img.shields.io/badge/CrewAI-FF4500?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AutoGen-4169E1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/n8n-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG_Pipelines-32CD32?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vector_DBs-9932CC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FF69B4?style=for-the-badge"/>
 </div>
 
 **Cloud & MLOps**
 <div>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Databricks-EF3D2B?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+</div>
+
+**Specialized Domains**
+<div>
+  <img src="https://img.shields.io/badge/NLP-Natural_Language_Processing-20B2AA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer_Vision-FF1493?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Time_Series-4682B4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-8B0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MLOps-228B22?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/A/B_Testing-FF8C00?style=for-the-badge"/>
 </div>
 
 ---
