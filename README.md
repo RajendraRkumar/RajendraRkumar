@@ -16,7 +16,7 @@ Quick setup:
 ---
 
 ## 🚀 About Me
-Sr. Data Scientist with 6+ years of experience delivering production ML systems and decision intelligence. Currently building AI/ML solutions at Heartland Network, with expertise spanning healthcare analytics, retail intelligence, and generative AI applications. I transform complex data challenges into scalable, impactful solutions—from EDA and feature engineering to full-stack deployment and MLOps.
+Lead Data Scientist with 5.5+ years of experience delivering production ML systems and decision intelligence. Currently building AI/ML solutions at Heartland Network, with expertise spanning healthcare analytics, retail intelligence, and generative AI applications. I transform complex data challenges into scalable, impactful solutions—from EDA and feature engineering to full-stack deployment and MLOps.
 
 **Focus areas:** Machine Learning & Statistical Modeling, MLOps & Production Systems, Generative AI & RAG Pipelines, Healthcare Analytics, and Real-time Data Processing.
 
