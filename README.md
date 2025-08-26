@@ -4,12 +4,12 @@ Quick setup:
 - Update Featured Projects, Highlights, and Certifications with real details.
 -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1100&color=4F8CC9&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Rajendra+Kumar;Sr.+Data+Scientist+%E2%80%A2+6%2B+years;ML+%7C+MLOps+%7C+GenAI+%7C+Analytics" alt="Typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1100&color=4F8CC9&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Rajendra+Kumar;Sr.+Data+Scientist+%E2%80%A2+5.5%2B+years;ML+%7C+MLOps+%7C+GenAI+%7C+Analytics" alt="Typing intro" />
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kummrajnn&style=flat-square&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/kummrajnn?label=Followers&style=flat-square&color=green" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/kummrajnn?label=Stars&style=flat-square&color=yellow" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=RajendraRkumar&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/RajendraRkumar?label=Followers&style=flat-square&color=green" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/RajendraRkumar?affiliations=OWNER,COLLABORATOR&style=flat-square&color=yellow" alt="GitHub Stars" />
   <img src="https://img.shields.io/badge/Role-Sr.%20Data%20Scientist-4F8CC9?style=flat-square" alt="Role" />
 </div>
 
